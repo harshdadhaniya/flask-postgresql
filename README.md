@@ -9,6 +9,7 @@
 
 ![](https://i.imgur.com/mB3cLV1.png)
 
+Use username & password as hkd
 
 ![](https://i.imgur.com/MgO93MJ.png)
 
