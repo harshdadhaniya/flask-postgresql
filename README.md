@@ -41,5 +41,5 @@ $ pip install -r requirements.txt
 # ENV Variables
 $ export FLASK_APP = application.py # flask run
 $ export DATABASE_URL = Your Heroku Postgres DB URI
-$ export GOODREADS_KEY = Goodreads API Key. # More info: https://www.goodreads.com/api
+$ export GOODREADS_KEY = Your Goodreads API Key. # More info: https://www.goodreads.com/api
 ```
