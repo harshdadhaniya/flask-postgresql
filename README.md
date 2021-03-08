@@ -9,7 +9,7 @@
 
 ![](https://i.imgur.com/mB3cLV1.png)
 
-Use username & password as hkd
+### Use username & password as hkd
 
 ![](https://i.imgur.com/MgO93MJ.png)
 
@@ -41,11 +41,6 @@ $ pip install -r requirements.txt
 
 # ENV Variables
 $ export FLASK_APP = application.py # flask run
-$ export DATABASE_URL = Heroku Postgres DB URI
+$ export DATABASE_URL = Your Heroku Postgres DB URI
 $ export GOODREADS_KEY = Goodreads API Key. # More info: https://www.goodreads.com/api
 ```
-
-### DB Schema
-
-Feel free to add your own improvements!
-![DB](https://i.imgur.com/ii6nkNr.png)
