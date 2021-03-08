@@ -3,13 +3,12 @@
 ## Web Programming with Python and JavaScript
 ### https://courses.edx.org/courses/course-v1:HarvardX+CS50W+Web/course/
 
-## Use the app on Heroku
+## Use the app on Heroku (use username & password as hkd)
 
 ### https://book-reviews-cs50-project1.herokuapp.com/
 
 ![](https://i.imgur.com/mB3cLV1.png)
 
-### Use username & password as hkd
 
 ![](https://i.imgur.com/MgO93MJ.png)
 
