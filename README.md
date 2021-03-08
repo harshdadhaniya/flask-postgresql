@@ -1,4 +1,4 @@
-# CS50W Project 1
+# CS50W Project 1 - Learn Flask & Postgresql
 
 ## Web Programming with Python and JavaScript
 ### https://courses.edx.org/courses/course-v1:HarvardX+CS50W+Web/course/
